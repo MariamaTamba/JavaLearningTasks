@@ -27,7 +27,6 @@ public class NumDaysMonthYear {
             }
         } else {
             System.out.println("Month entered is not valid.");
-            return;
         }
 
         System.out.println("The number of days in the month " + mes + " of year " + any + " is: " + numDiesMesAny);
