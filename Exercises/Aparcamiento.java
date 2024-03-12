@@ -10,7 +10,7 @@ public class Aparcamiento {
     public static void main(String[] args) {
 
         int opcion = 0;
-        do {
+        do {     
             System.out.println("Salir");
             System.out.println("Insertar");
             System.out.println("Buscar");
